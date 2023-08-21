@@ -7,6 +7,6 @@ You will need to install [wabt](https://github.com/WebAssembly/wabt)
 ```console
 $ make
 $ python3 -m http.server 6969
-$ iexplore.exe http://localhost:6969/
-<Open DevTools Console and observe the output>
+<open http://localhost:6969/>
+<open devTools console and observe the output>
 ```
